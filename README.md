@@ -27,7 +27,6 @@ I'm Heidi, a Software Engineering student at UANL finishing my final year. I enj
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white&labelColor=00bcd4&color=0097a7)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=white&labelColor=00bcd4&color=0097a7)
 
 ### IDEs & Editors
 ![VS Code](https://img.shields.io/badge/VS_Code-white?style=flat&logo=visualstudiocode&logoColor=white&labelColor=00bcd4&color=0097a7)
@@ -40,12 +39,16 @@ I'm Heidi, a Software Engineering student at UANL finishing my final year. I enj
 ### Hardware & Embedded
 ![Arduino](https://img.shields.io/badge/Arduino-white?style=flat&logo=arduino&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-white?style=flat&logo=raspberrypi&logoColor=white&labelColor=00bcd4&color=0097a7)
-![Raptor](https://img.shields.io/badge/Raptor-white?style=flat&logoColor=white&labelColor=00bcd4&color=0097a7)
 
 ### CAD & Simulation
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-white?style=flat&logo=autodesk&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-white?style=flat&logo=autodesk&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Proteus](https://img.shields.io/badge/Proteus-white?style=flat&logoColor=white&labelColor=00bcd4&color=0097a7)
+
+### Logic & Pseudocode
+![Raptor](https://img.shields.io/badge/Raptor-white?style=flat&logoColor=white&labelColor=00bcd4&color=0097a7)
+![PSeInt](https://img.shields.io/badge/PSeInt-white?style=flat&logoColor=white&labelColor=00bcd4&color=0097a7)
+
 
 ## 🚀 Projects
 
