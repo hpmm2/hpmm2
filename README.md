@@ -5,7 +5,7 @@
 
 Hey there 👋
 
-I'm Heidi, a Software Engineering student at UANL finishing my final year. I enjoy building things — from apps to interfaces — and I have a soft spot for design and making things look good. I've worked with languages like C/C++, JavaScript, Python and SwiftUI across different projects, and I'm always excited to learn new tools and technologies along the way.
+I'm Heidi, a Software Engineering student at UANL finishing my final year. I enjoy building things — from apps to interfaces — and I have a soft spot for design and making things look good. I've worked with languages like C/C++, JavaScript, Python, Swift and Kotlin, built mobile apps for Android and iOS, tinkered with hardware like Arduino and Raspberry Pi, and even dabbled in CAD and circuit simulation. I'm always excited to learn new tools and technologies along the way.
 
 
 ## 💻 Tech Stack
@@ -17,19 +17,35 @@ I'm Heidi, a Software Engineering student at UANL finishing my final year. I enj
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Swift](https://img.shields.io/badge/SwiftUI-F54A2A?style=flat&logo=swift&logoColor=white&labelColor=00bcd4&color=0097a7)
-![Android](https://img.shields.io/badge/Android-white?style=flat&logo=android&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Kotlin](https://img.shields.io/badge/Kotlin-white?style=flat&logo=kotlin&logoColor=white&labelColor=00bcd4&color=0097a7)
+
+### Mobile
+![Android](https://img.shields.io/badge/Android-white?style=flat&logo=android&logoColor=white&labelColor=00bcd4&color=0097a7)
+![iOS](https://img.shields.io/badge/iOS-white?style=flat&logo=apple&logoColor=white&labelColor=00bcd4&color=0097a7)
 
 ### Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white&labelColor=00bcd4&color=0097a7)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=white&labelColor=00bcd4&color=0097a7)
 
-### IDEs
+### IDEs & Editors
 ![VS Code](https://img.shields.io/badge/VS_Code-white?style=flat&logo=visualstudiocode&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-white?style=flat&logo=androidstudio&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Xcode](https://img.shields.io/badge/Xcode-white?style=flat&logo=xcode&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Swift Playgrounds](https://img.shields.io/badge/Swift_Playgrounds-white?style=flat&logo=swift&logoColor=white&labelColor=00bcd4&color=0097a7)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-white?style=flat&logo=arduino&logoColor=white&labelColor=00bcd4&color=0097a7)
+![Microchip Studio](https://img.shields.io/badge/Microchip_Studio-white?style=flat&logo=microchip&logoColor=white&labelColor=00bcd4&color=0097a7)
+
+### Hardware & Embedded
+![Arduino](https://img.shields.io/badge/Arduino-white?style=flat&logo=arduino&logoColor=white&labelColor=00bcd4&color=0097a7)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-white?style=flat&logo=raspberrypi&logoColor=white&labelColor=00bcd4&color=0097a7)
+![Raptor](https://img.shields.io/badge/Raptor-white?style=flat&logoColor=white&labelColor=00bcd4&color=0097a7)
+
+### CAD & Simulation
+![AutoCAD](https://img.shields.io/badge/AutoCAD-white?style=flat&logo=autodesk&logoColor=white&labelColor=00bcd4&color=0097a7)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-white?style=flat&logo=autodesk&logoColor=white&labelColor=00bcd4&color=0097a7)
+![Proteus](https://img.shields.io/badge/Proteus-white?style=flat&logoColor=white&labelColor=00bcd4&color=0097a7)
 
 ## 🚀 Projects
 
