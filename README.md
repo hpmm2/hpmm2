@@ -35,6 +35,7 @@ I'm Heidi, a Software Engineering student at UANL finishing my final year. I enj
 ![Swift Playgrounds](https://img.shields.io/badge/Swift_Playgrounds-white?style=flat&logo=swift&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-white?style=flat&logo=arduino&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Microchip Studio](https://img.shields.io/badge/Microchip_Studio-white?style=flat&logo=microchip&logoColor=white&labelColor=00bcd4&color=0097a7)
+![Jupyter](https://img.shields.io/badge/Jupyter-white?style=flat&logo=jupyter&logoColor=white&labelColor=00bcd4&color=0097a7)
 
 ### Hardware & Embedded
 ![Arduino](https://img.shields.io/badge/Arduino-white?style=flat&logo=arduino&logoColor=white&labelColor=00bcd4&color=0097a7)
