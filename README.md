@@ -49,6 +49,8 @@ I'm Heidi, a Software Engineering student at UANL finishing my final year. I enj
 ![Raptor](https://img.shields.io/badge/Raptor-white?style=flat&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![PSeInt](https://img.shields.io/badge/PSeInt-white?style=flat&logoColor=white&labelColor=00bcd4&color=0097a7)
 
+### Data & Analytics
+![IBM SPSS](https://img.shields.io/badge/IBM_SPSS-white?style=flat&logo=ibm&logoColor=white&labelColor=00bcd4&color=0097a7)
 
 ## 🚀 Projects
 
