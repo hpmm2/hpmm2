@@ -11,29 +11,31 @@ I'm Heidi, a Software Engineering student at UANL finishing my final year. I enj
 ## 💻 Tech Stack
 
 ### Languages
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white&labelColor=424242&color=333333)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white&labelColor=00bcd4&color=0097a7)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white&labelColor=00bcd4&color=0097a7)
-![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Swift](https://img.shields.io/badge/SwiftUI-F54A2A?style=flat&logo=swift&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Kotlin](https://img.shields.io/badge/Kotlin-white?style=flat&logo=kotlin&logoColor=white&labelColor=00bcd4&color=0097a7)
-![HTML](https://img.shields.io/badge/HTML-white?style=flat&logo=html5&logoColor=white&labelColor=00bcd4&color=0097a7)
-![CSS](https://img.shields.io/badge/CSS-white?style=flat&logo=css3&logoColor=white&labelColor=00bcd4&color=0097a7)
-![PHP](https://img.shields.io/badge/PHP-white?style=flat&logo=php&logoColor=white&labelColor=00bcd4&color=0097a7)
-![Ruby](https://img.shields.io/badge/Ruby-white?style=flat&logo=ruby&logoColor=white&labelColor=00bcd4&color=0097a7)
-![Rails](https://img.shields.io/badge/Rails-white?style=flat&logo=rubyonrails&logoColor=white&labelColor=00bcd4&color=0097a7)
+![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=white&labelColor=00bcd4&color=0097a7)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white&labelColor=00bcd4&color=0097a7)<br>
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white&labelColor=607d8b&color=546e7a)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white&labelColor=607d8b&color=546e7a)
+![Dart](https://img.shields.io/badge/Dart-white?style=flat&logo=dart&logoColor=white&labelColor=607d8b&color=546e7a)
+![HTML](https://img.shields.io/badge/HTML-white?style=flat&logo=html5&logoColor=white&labelColor=607d8b&color=546e7a)
+![CSS](https://img.shields.io/badge/CSS-white?style=flat&logo=css3&logoColor=white&labelColor=607d8b&color=546e7a)
+![PHP](https://img.shields.io/badge/PHP-white?style=flat&logo=php&logoColor=white&labelColor=607d8b&color=546e7a)
+![Ruby](https://img.shields.io/badge/Ruby-white?style=flat&logo=ruby&logoColor=white&labelColor=607d8b&color=546e7a)
+![SQLite](https://img.shields.io/badge/SQLite-white?style=flat&logo=sqlite&logoColor=white&labelColor=607d8b&color=546e7a)
+
+### Frameworks & Runtimes
+![Flutter](https://img.shields.io/badge/Flutter-white?style=flat&logo=flutter&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Maven](https://img.shields.io/badge/Maven-white?style=flat&logo=apachemaven&logoColor=white&labelColor=00bcd4&color=0097a7)
-![Dart](https://img.shields.io/badge/Dart-white?style=flat&logo=dart&logoColor=white&labelColor=00bcd4&color=0097a7)
-![SQLite](https://img.shields.io/badge/SQLite-white?style=flat&logo=sqlite&logoColor=white&labelColor=00bcd4&color=0097a7)
 
 ### Mobile
 ![Android](https://img.shields.io/badge/Android-white?style=flat&logo=android&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![iOS](https://img.shields.io/badge/iOS-white?style=flat&logo=apple&logoColor=white&labelColor=00bcd4&color=0097a7)
 
-### Frameworks & Runtimes
-![Flutter](https://img.shields.io/badge/Flutter-white?style=flat&logo=flutter&logoColor=white&labelColor=00bcd4&color=0097a7)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=flat&logo=bootstrap&logoColor=white&labelColor=00bcd4&color=0097a7)
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-white?style=flat&logo=mysql&logoColor=white&labelColor=00bcd4&color=0097a7)
+![Firebase](https://img.shields.io/badge/Firebase-white?style=flat&logo=firebase&logoColor=white&labelColor=00bcd4&color=0097a7)
 
 ### Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white&labelColor=00bcd4&color=0097a7)
@@ -64,10 +66,6 @@ I'm Heidi, a Software Engineering student at UANL finishing my final year. I enj
 
 ### Data & Analytics
 ![IBM SPSS](https://img.shields.io/badge/IBM_SPSS-white?style=flat&logo=ibm&logoColor=white&labelColor=00bcd4&color=0097a7)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-white?style=flat&logo=mysql&logoColor=white&labelColor=00bcd4&color=0097a7)
-![Firebase](https://img.shields.io/badge/Firebase-white?style=flat&logo=firebase&logoColor=white&labelColor=00bcd4&color=0097a7)
 
 ## 🚀 Projects
 
