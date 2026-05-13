@@ -11,7 +11,7 @@ I'm Heidi, a Software Engineering student at UANL finishing my final year. I enj
 ## 💻 Tech Stack
 
 ### Languages
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white&labelColor=00bcd4&color=0097a7)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white&labelColor=424242&color=333333)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=white&labelColor=00bcd4&color=0097a7)
