@@ -18,6 +18,11 @@ I'm Heidi, a Software Engineering student at UANL finishing my final year. I enj
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Swift](https://img.shields.io/badge/SwiftUI-F54A2A?style=flat&logo=swift&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Kotlin](https://img.shields.io/badge/Kotlin-white?style=flat&logo=kotlin&logoColor=white&labelColor=00bcd4&color=0097a7)
+![HTML](https://img.shields.io/badge/HTML-white?style=flat&logo=html5&logoColor=white&labelColor=00bcd4&color=0097a7)
+![CSS](https://img.shields.io/badge/CSS-white?style=flat&logo=css3&logoColor=white&labelColor=00bcd4&color=0097a7)
+![PHP](https://img.shields.io/badge/PHP-white?style=flat&logo=php&logoColor=white&labelColor=00bcd4&color=0097a7)
+![Ruby](https://img.shields.io/badge/Ruby-white?style=flat&logo=ruby&logoColor=white&labelColor=00bcd4&color=0097a7)
+![Rails](https://img.shields.io/badge/Rails-white?style=flat&logo=rubyonrails&logoColor=white&labelColor=00bcd4&color=0097a7)
 
 ### Mobile
 ![Android](https://img.shields.io/badge/Android-white?style=flat&logo=android&logoColor=white&labelColor=00bcd4&color=0097a7)
