@@ -24,10 +24,16 @@ I'm Heidi, a Software Engineering student at UANL finishing my final year. I enj
 ![Ruby](https://img.shields.io/badge/Ruby-white?style=flat&logo=ruby&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Rails](https://img.shields.io/badge/Rails-white?style=flat&logo=rubyonrails&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![Maven](https://img.shields.io/badge/Maven-white?style=flat&logo=apachemaven&logoColor=white&labelColor=00bcd4&color=0097a7)
+![Dart](https://img.shields.io/badge/Dart-white?style=flat&logo=dart&logoColor=white&labelColor=00bcd4&color=0097a7)
+![SQLite](https://img.shields.io/badge/SQLite-white?style=flat&logo=sqlite&logoColor=white&labelColor=00bcd4&color=0097a7)
 
 ### Mobile
 ![Android](https://img.shields.io/badge/Android-white?style=flat&logo=android&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![iOS](https://img.shields.io/badge/iOS-white?style=flat&logo=apple&logoColor=white&labelColor=00bcd4&color=0097a7)
+
+### Frameworks & Runtimes
+![Flutter](https://img.shields.io/badge/Flutter-white?style=flat&logo=flutter&logoColor=white&labelColor=00bcd4&color=0097a7)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=flat&logo=bootstrap&logoColor=white&labelColor=00bcd4&color=0097a7)
 
 ### Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white&labelColor=00bcd4&color=0097a7)
@@ -58,6 +64,10 @@ I'm Heidi, a Software Engineering student at UANL finishing my final year. I enj
 
 ### Data & Analytics
 ![IBM SPSS](https://img.shields.io/badge/IBM_SPSS-white?style=flat&logo=ibm&logoColor=white&labelColor=00bcd4&color=0097a7)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-white?style=flat&logo=mysql&logoColor=white&labelColor=00bcd4&color=0097a7)
+![Firebase](https://img.shields.io/badge/Firebase-white?style=flat&logo=firebase&logoColor=white&labelColor=00bcd4&color=0097a7)
 
 ## 🚀 Projects
 
