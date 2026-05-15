@@ -71,7 +71,13 @@ I'm Heidi, a Software Engineering student at UANL finishing my final year. I enj
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| — | — | — |
+| [Swift-Changemakers-Hackathon-2026---Tonelli-App](https://github.com/HPMM2/Swift-Changemakers-Hackathon-2026---Tonelli-App) | A SwiftUI iOS app built with Xcode for smart home energy monitoring, featuring EcoLearn — a distributed AI training system that leverages users' own devices instead of energy-hungry data centers. Built in 24 hours at the Swift Changemakers Hackathon 2026. 🌱 Currently in beta. | — |
+| [Swift-Practices---BouncyBall-App](https://github.com/HPMM2/Swift-Practices---BouncyBall-App) | Physics-based ball game built in Swift Playgrounds as an exercise from the App Development with Swift: Explorations book at the iOS Development Lab at UANL. | Swift |
+| [Swift-Practices-iOS-Dev-Lab](https://github.com/HPMM2/Swift-Practices-iOS-Dev-Lab) | Collection of Swift/SwiftUI practice apps developed during my Software Engineering degree at UANL at an iOS Development Lab. | Swift |
+| [Rastreador-de-Estrellas-con-Arduino](https://github.com/HPMM2/Rastreador-de-Estrellas-con-Arduino) | Este es un proyecto basado en Arduino UNO, un módulo GPS NEO-6M y una pantalla TFT ILI9341 simulado en Wokwi. Su propósito principal es simular un dispositivo que muestra la ubicación de las estrellas, en tiempo real, basándose en la ubicación geográfica (lat y lon) y la hora del observador. | — |
+| [Programmable-Controllers-Microcontrollers-Projects](https://github.com/HPMM2/Programmable-Controllers-Microcontrollers-Projects) | Projects and exercises from the Programmable Controllers & Microcontrollers course at UANL, using Proteus and Tinkercad for circuit simulation. | C |
+| [Artificial-Neural-Networks---Magic-Writing-Assistant-App](https://github.com/HPMM2/Artificial-Neural-Networks---Magic-Writing-Assistant-App) | An app for kids that uses a TensorFlow Lite neural network to recognize handwritten letters in real time, developed as the final project for the Artificial Neural Networks course at UANL. | — |
+
 
 ## 🌱 Currently
 
