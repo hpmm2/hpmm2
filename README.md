@@ -69,7 +69,9 @@ I'm Heidi, a Software Engineering student at UANL finishing my final year. I enj
 
 ## 🚀 Projects
 
-> 🚧 Coming soon...
+| Project | Description | Tech |
+|---------|-------------|------|
+| — | — | — |
 
 ## 🌱 Currently
 
