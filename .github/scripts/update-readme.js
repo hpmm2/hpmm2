@@ -16,7 +16,7 @@ module.exports = async ({ github }) => {
 
   const recent = repos
     .filter(r => r.name !== 'HPMM2')
-    .sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at))
+    .sort((a, b) => new Date(b.pushed_at) - new Date(a.pushed_at))
     .slice(0, 4);
 
   const starred = repos
