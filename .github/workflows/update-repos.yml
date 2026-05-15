@@ -1,0 +1,52 @@
+name: Update README with top repos
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Corre todos los días a medianoche
+  workflow_dispatch:       # También puedes correrlo manualmente
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update README
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            
+            const { data: repos } = await github.rest.repos.listForUser({
+              username: 'HPMM2',
+              sort: 'updated',
+              per_page: 100,
+              type: 'public'
+            });
+            
+            const filtered = repos
+              .filter(r => r.name !== 'HPMM2')
+              .sort((a, b) => b.stargazers_count - a.stargazers_count || 
+                              new Date(b.updated_at) - new Date(a.updated_at))
+              .slice(0, 6);
+            
+            const rows = filtered.map(r => 
+              `| [${r.name}](${r.html_url}) | ${r.description || '—'} | ${r.language || '—'} |`
+            ).join('\n');
+            
+            const table = `| Project | Description | Tech |\n|---------|-------------|------|\n${rows}`;
+            
+            let readme = fs.readFileSync('README.md', 'utf8');
+            readme = readme.replace(
+              /## 🚀 Projects[\s\S]*?(?=\n## |$)/,
+              `## 🚀 Projects\n\n${table}\n\n`
+            );
+            fs.writeFileSync('README.md', readme);
+            
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m 'chore: update projects table'
+          git push
