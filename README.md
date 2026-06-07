@@ -70,10 +70,10 @@ I'm Heidi, a Software Engineering student at UANL finishing my final year. I enj
 ## 🚀 Projects
 
 ### 🕐 Recently Updated
+- 🐍 [**xx**](https://github.com/HPMM2/xx) · `Python`
 - 📁 [**Swift-Changemakers-Hackathon-2026---Tonalli-App**](https://github.com/HPMM2/Swift-Changemakers-Hackathon-2026---Tonalli-App) — A SwiftUI iOS app built with Xcode for smart home energy monitoring, featuring EcoLearn — a distributed AI training system that leverages users' own devices instead of energy-hungry data centers. Built in 24 hours at the Swift Changemakers Hackathon 2026. 🌱 Currently in beta.
 - 🍎 [**Swift-Practices---BouncyBall-App**](https://github.com/HPMM2/Swift-Practices---BouncyBall-App) · `Swift` — Physics-based ball game built in Swift Playgrounds as an exercise from the App Development with Swift: Explorations book at the iOS Development Lab at UANL.
 - 🍎 [**Swift-Practices-iOS-Dev-Lab**](https://github.com/HPMM2/Swift-Practices-iOS-Dev-Lab) · `Swift` — Collection of Swift/SwiftUI practice apps developed during my Software Engineering degree at UANL at an iOS Development Lab.
-- ⚙️ [**Programmable-Controllers-Microcontrollers-Projects**](https://github.com/HPMM2/Programmable-Controllers-Microcontrollers-Projects) · `C` — Projects and exercises from the Programmable Controllers & Microcontrollers course at UANL, using Proteus and Tinkercad for circuit simulation.
 
 
 ## 🌱 Currently
